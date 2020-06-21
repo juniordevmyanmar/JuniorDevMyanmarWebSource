@@ -25,6 +25,8 @@ git push origin master
 # Go to submodule
 cd docs  
 
+git add .
+
 git commit -m "$msg" 
 
 git push origin master
